@@ -1,17 +1,3 @@
-src/
-├─ main/
-│  └─ java/warehouse/
-│     ├─ Main.java
-│     ├─ Product.java
-│     ├─ ProductFilter.java
-│     ├─ ProductRepository.java
-│     ├─ InMemoryProductRepository.java
-│     ├─ ProductService.java
-│     └─ ProductServiceImpl.java
-└─ test/
-   └─ java/warehouse/
-      └─ ProductServiceTest.java
-
 
 Як запустити
 
